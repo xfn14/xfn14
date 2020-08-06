@@ -15,6 +15,9 @@
 <br />
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 <img align="left" alt="andreubita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreubita&show_icons=true&hide_border=true" />
