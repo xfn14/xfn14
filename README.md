@@ -27,7 +27,7 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 
 ---
 
-[![](https://github-readme-stats.vercel.app/api?username=andreubita&count_private=true&show_icons=true&bg_color=black&title_color=aa00aa&icon_color=aa00aa&text_color=aa00aa)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=andreubita&count_private=true&show_icons=true&bg_color=000000&title_color=770077&icon_color=770077&text_color=aa00aa)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://andreubita.github.io
 [twitter]: https://twitter.com/andre_vaz_14
