@@ -99,4 +99,4 @@ HTML                     2 repos             ███░░░░░░░░�
 [website]: https://andreubita.github.io
 [twitter]: https://twitter.com/andre_vaz_14
 [instagram]: https://instagram.com/andre.vaz14
-[ubatv]: https://ubatv.xyz
+[ubatv]: https://github.com/UbaTV
