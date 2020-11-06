@@ -11,8 +11,6 @@
 [<img align="left" alt="andre.vaz14 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="andre_vaz_14 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br>
----
 
 [website]: https://andreubita.github.io
 [twitter]: https://twitter.com/andre_vaz_14
