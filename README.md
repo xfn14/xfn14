@@ -2,7 +2,7 @@
 
 ## I'm a Developer from Portugal 🇵🇹
 - 💾 Studying software engineering at Universiade do Minho
-- 📫 How to reach me: andreubita@ubatv.xyz
+- 📫 How to reach me: me@andreubita.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
