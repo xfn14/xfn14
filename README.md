@@ -23,9 +23,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="ttps://raw.  githubusercontent.com/xfn14/xfn14/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="ttps://raw. githubusercontent.com/xfn14/xfn14/output/snake.svg">
-  <img alt="snake" src="ttps://raw.githubusercontent.com/xfn14/xfn14/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xfn14/xfn14/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xfn14/xfn14/output/snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/xfn14/xfn14/output/snake.svg">
 </picture>
 
 <br>
