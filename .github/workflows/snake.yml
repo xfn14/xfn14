@@ -14,7 +14,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: xfn14
-          svg_out_path: dist/snake.svg
+          outputs: dist/snake.svg
       
       - name: Push file to branch output
         uses: crazy-max/ghaction-github-pages@v2.1.3
