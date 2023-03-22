@@ -23,5 +23,5 @@
 <br><br>
 
 <div align="center">  
-  ![Snake](https://github.com/xfn14/xfn14/blob/output/snake.svg)
+  ![Snake](https://raw.githubusercontent.com/xfn14/xfn14/output/snake.svg)
 </div>
