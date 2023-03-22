@@ -22,6 +22,7 @@
 
 <br><br>
 
-<div align="center">  
+<div align="center"> 
+    
   ![Snake](https://raw.githubusercontent.com/xfn14/xfn14/output/snake.svg)
 </div>
