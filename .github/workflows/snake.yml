@@ -9,12 +9,16 @@ jobs:
   mksnake:
     name: Generate snake.svg
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - name: Generate the snake.svg file
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: xfn14
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
       
       - name: Push file to branch output
         uses: crazy-max/ghaction-github-pages@v2.1.3

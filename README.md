@@ -1,6 +1,6 @@
 
 <div align="center" style="display: inline_block"><br>
-    <h1> Hello, I'm <a href="https://xfn14.com">André Vaz</a> 👋</h1>
+    <h1> Hello, I'm André Vaz 👋</h1>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -22,7 +22,14 @@
 
 <br><br>
 
-<div align="center"> 
-    
-  ![Snake](https://raw.githubusercontent.com/xfn14/xfn14/output/snake.svg)
+<div align="center" style="display: inline_block"><br>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="ttps://raw.  githubusercontent.com/xfn14/xfn14/output/snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="ttps://raw. githubusercontent.com/xfn14/xfn14/output/snake.svg">
+      <img alt="snake" src="ttps://raw.githubusercontent.com/xfn14/xfn14/output/snake.  svg">
+    </picture>
 </div>
+
+<br>
+
+_Make with ❤️ by [xfn14](https://github.com/xfn14)_
