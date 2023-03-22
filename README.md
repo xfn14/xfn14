@@ -20,8 +20,6 @@
 - 📫 How to reach me: xfn14@pm.me
 - 🥅 Goals: Create more to Open Source projects
 
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xfn14/xfn14/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xfn14/xfn14/output/snake.svg">
