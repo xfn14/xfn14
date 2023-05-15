@@ -11,6 +11,8 @@
     <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <br><br>
+    <img align="center" alt="CodeWars" src="https://www.codewars.com/users/xfn14/badges/large">
 </div>
 
 <br><br>
