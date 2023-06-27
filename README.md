@@ -30,4 +30,4 @@
 
 <br>
 
-_Make with ❤️ by [xfn14](https://github.com/xfn14)_
+_Made with ❤️ by [xfn14](https://github.com/xfn14)_
