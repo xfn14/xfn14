@@ -20,7 +20,7 @@
 ## I'm a Developer from Portugal 🇵🇹
 - 💾 Studying software engineering at Universidade do Minho
 - 📫 How to reach me: xfn14@pm.me
-- 🥅 Goals: Create more to Open Source projects
+- 🥅 Goal: Get the username `fn14` on github
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xfn14/xfn14/output/snake-dark.svg">
