@@ -19,7 +19,7 @@
 
 ## I'm a Developer from Portugal 🇵🇹
 - 💾 Studying software engineering at Universidade do Minho
-- 📫 How to reach me: xfn14@pm.me
+- 📫 How to reach me: me@fn14.pt
 - 🥅 Goal: Get the username `fn14` on github
 
 <picture>
