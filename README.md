@@ -12,7 +12,7 @@
     <img align="center" alt="Express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <br><br>
-    <img align="center" alt="CodeWars" src="https://www.codewars.com/users/xfn14/badges/large">
+    <img align="center" alt="CodeWars" src="https://www.codewars.com/users/fn14/badges/large">
 </div>
 
 <br><br>
